@@ -4,3 +4,5 @@
 
 ### E.O.L Mode (The Killswitch. Terminates Program usage. Even with Authorised Key.)
 disabled
+
+### Public Mode (Public and does not require an authentication key of any kind. the program would just let you in)
