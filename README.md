@@ -6,3 +6,7 @@
 disabled
 
 ### Public Mode (Public and does not require an authentication key of any kind. the program would just let you in)
+public
+
+### Private Mode (for holders of the Authentication Key can get in)
+private
